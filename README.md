@@ -14,6 +14,10 @@
 
   #
 
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdnaneMaj&theme=darkhub&column=8&row=1&margin-w=5&no-frame=true" alt="AdnaneMaj" /></a> </p>
+
+  #
+
 <h3 align="left"> My GitHub stats </h3>
 <div class="badges-githubstats">
   <p align="center">
