@@ -21,7 +21,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnaneMAJ&theme=tokyonight&hide_border=true" alt="AdnaneMAJ's Streak" height="165">
   </p>
 </div>
-
-
-
-<img src="https://raw.githubusercontent.com/AdnaneMaj/AdnaneMaj/output/snake.svg" alt="Snake animation" />
