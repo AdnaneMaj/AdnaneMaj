@@ -9,7 +9,7 @@
 <h3 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm MAJDOUB Adnane, an AI engineerng student at ENSIAS</h3>
 <br/>
 
-* I am interested in machine learning, deep learning and reinforecment learning
+* I am interested in machine learning, deep learning and reinforcement learning
 * Reach me on : **adnanemajdoub@gmail.com**
 
   #
