@@ -1,16 +1,28 @@
-## Hi there 👋
+<picture>
+<img src="https://i.pinimg.com/736x/62/7b/c0/627bc0a8824dabde703663a61e01692f.jpg"/>
+</picture>
 
-<!--
-**AdnaneMaj/AdnaneMaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=AdnaneMAJ" alt="Profile views" align='right'/> <a href="https://github.com/AdnaneMAJ/AdnaneMAJ/"> </a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm MAJDOUB Adnane</h3>
+<br/>
+
+# 
+<h3>I am an AI engineerng student at ENSIAS</h3>
+
+* I am interested in machine learning, deep learning and reinforecment learning
+* Reach me on : **adnanemajdoub@gmail.com**
+
+<h3 align="left"> My GitHub stats </h3>
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdnaneMAJ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="AdnaneMAJ's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnaneMAJ&theme=tokyonight&hide_border=true" alt="AdnaneMAJ's Streak" height="165">
+  </p>
+</div>
+
+
+
+<img src="https://raw.githubusercontent.com/AdnaneMaj/AdnaneMaj/output/snake.svg" alt="Snake animation" />
